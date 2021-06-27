@@ -1,33 +1,33 @@
 :global int exotic_producer
 :global int gem_producer
-:global int white_producer
-:global int red_producer
-:global int orange_producer
-:global int blue_producer
-:global int brown_producer
-:global int green_producer
-:global int purple_producer
-:global int yellow_producer
-:global int pink_producer
-:global int lightblue_producer
-:global int cyan_producer
-:global int grey_producer
-:global int black_producer
+:global int town_producer
+:global int factory_producer
+:global int mine_producer
+:global int workshop_producer
+:global int constructionfirm_producer
+:global int lab_producer
+:global int headquarters_producer
+:global int powerplant_producer
+:global int arcade_producer
+:global int lightworkshop_producer
+:global int shipyard_producer
+:global int museum_producer
+:global int boss_producer
 :global int producer
 
-white_producer = 1 + producer
-red_producer = 2 + producer
-orange_producer = 3 + producer
-blue_producer = 4 + producer
-brown_producer = 5 + producer
-green_producer = 6 + producer
-purple_producer = 7 + producer
-yellow_producer = 8 + producer
-pink_producer = 9 + producer
-lightblue_producer = 10 + producer
-cyan_producer = 11 + producer
-grey_producer = 12 + producer
-black_producer = 13 + producer
+town_producer = 1 + producer
+factory_producer = 2 + producer
+mine_producer = 3 + producer
+workshop_producer = 4 + producer
+constructionfirm_producer = 5 + producer
+lab_producer = 6 + producer
+headquarters_producer = 7 + producer
+powerplant_producer = 8 + producer
+arcade_producer = 9 + producer
+lightworkshop_producer = 10 + producer
+shipyard_producer = 11 + producer
+museum_producer = 12 + producer
+boss_producer = 13 + producer
 
 gem_producer = 15 + producer
 exotic_producer = 16 + producer
